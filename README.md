@@ -94,3 +94,6 @@ Xong #3 rồi! Repo của bạn giờ nhìn rất pro luôn.
 Thêm dòng này vào phần Progress:
 ```markdown
 ![Progress](https://progress-bar.dev/6/?scale=50&title=Commits&width=300)
+## 🛠️ Tech Stack
+- Solidity • Base Chain • Hardhat • Foundry
+- Next.js • TypeScript • Tailwind
