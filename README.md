@@ -97,3 +97,5 @@ Thêm dòng này vào phần Progress:
 ## 🛠️ Tech Stack
 - Solidity • Base Chain • Hardhat • Foundry
 - Next.js • TypeScript • Tailwind
+> “The best way to learn is to build in public.”  
+> — Base Builder
