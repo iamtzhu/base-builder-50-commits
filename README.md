@@ -52,3 +52,17 @@ contract HelloBase {
         return "Good morning Base! Let's build onchain 🌐";
     }
 } 
+
+4. **Commit message**: `feat: add beautiful README + Solidity hello base`  
+5. Nhấn **Commit changes**
+
+Xong #3 rồi! Repo của bạn giờ nhìn rất pro luôn.
+
+---
+
+### Muốn tiếp tục “hay ho” hơn? Đây là gợi ý 10 commit tiếp theo (mỗi commit chỉ thêm/sửa 1 phần):
+
+**#4** → Thêm badge + progress bar  
+Thêm dòng này vào phần Progress:
+```markdown
+![Progress](https://progress-bar.dev/6/?scale=50&title=Commits&width=300)
