@@ -99,3 +99,8 @@ Thêm dòng này vào phần Progress:
 - Next.js • TypeScript • Tailwind
 > “The best way to learn is to build in public.”  
 > — Base Builder
+## Roadmap
+- [x] 50 commits  
+- [ ] 100 commits  
+- [ ] Deploy contract thật lên Base  
+- [ ] Contribute open source
