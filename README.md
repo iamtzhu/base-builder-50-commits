@@ -3,6 +3,45 @@ Commit #51 - Base Builder
 Commit #52 - Base Builder
 Commit #53 - Base Builder
 Commit #54 - Base Builder
+Commit #55 - Base Builder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Commit #2 - Đang farm cho Base Guild
 Commit #3 - Base Builder
