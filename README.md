@@ -34,3 +34,4 @@ Commit #8 - Base Builder
 #
 3     
 |
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iamtzhu/base-builder-50-commits)
