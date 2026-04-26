@@ -35,3 +35,6 @@ Commit #8 - Base Builder
 3     
 |
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iamtzhu/base-builder-50-commits)
+## About this repo
+Repo này được tạo để farm 50 public commits cho Guild Base.
+Mỗi commit đều là bước tiến tới vai trò **Based Developer** 🧱
