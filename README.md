@@ -104,3 +104,8 @@ Thêm dòng này vào phần Progress:
 - [ ] 100 commits  
 - [ ] Deploy contract thật lên Base  
 - [ ] Contribute open source
+## Roadmap
+- [x] 50 commits  
+- [ ] 100 commits  
+- [ ] Deploy contract thật lên Base  
+- [ ] Contribute open source
