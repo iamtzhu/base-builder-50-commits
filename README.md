@@ -7,3 +7,30 @@ Commit #5 - Base Builder
 Commit #6 - Base Builder
 Commit #7 - Base Builder
 Commit #8 - Base Builder
+### Commit Progress
+|
+ Commit 
+|
+ Trạng thái 
+|
+|
+--------
+|
+------------
+|
+|
+#
+1     
+|
+ ✅         
+|
+|
+#
+2     
+|
+ ✅         
+|
+|
+#
+3     
+|
