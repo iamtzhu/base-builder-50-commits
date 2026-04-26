@@ -39,3 +39,16 @@ Commit #8 - Base Builder
 Repo này được tạo để farm 50 public commits cho Guild Base.
 Mỗi commit đều là bước tiến tới vai trò **Based Developer** 🧱
 Commit #11 - Base Builder
+# ✨ Hello Base - Solidity Snippet
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+contract HelloBase {
+    string public greeting = "gm Base Builder! 👋";
+    
+    function sayGM() public pure returns (string memory) {
+        return "Good morning Base! Let's build onchain 🌐";
+    }
+} 
