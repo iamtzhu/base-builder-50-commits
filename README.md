@@ -109,3 +109,7 @@ Thêm dòng này vào phần Progress:
 - [ ] 100 commits  
 - [ ] Deploy contract thật lên Base  
 - [ ] Contribute open source
+## Learn More
+- [Base Docs](https://docs.base.org)  
+- [Base Bridge](https://bridge.base.org)  
+- [Guild Base Builders](https://guild.xyz/base/builders-founders)
